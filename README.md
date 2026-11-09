@@ -89,3 +89,15 @@ Copyright
 * [Special Thanks](https://docs.joomla.org/Joomla!_Credits_and_Thanks)
 * Distributed under the GNU General Public License version 2 or later
 * See [License details](https://docs.joomla.org/Joomla_Licenses)
+
+
+
+
+Автор репозитория:
+Григорий Русаков
+Эксперт в ИТ и ИИ
+https://it-rusakov.ru
+email: greg@it-rusakov.ru
+Компания Аналитика. Проекты и решения
+https://analitica-soft.ru (внедрение ИТ и ИИ)
+
